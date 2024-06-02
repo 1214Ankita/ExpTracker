@@ -1,3 +1,6 @@
+# Expense Tracker
+The expense tracker site, built with React and Redux, provides users with a comprehensive tool for managing their finances. Through React's dynamic UI components and Redux's centralized state management, users can easily track, categorize, and analyze their expenses. It helps in tracking daily purchases, bills, and everything else you spend money and calculate it accordingly.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
